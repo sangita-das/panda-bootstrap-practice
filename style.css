@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.searchbox{
+   margin: 0,56PX;
+width: 508.94px;
+height: 48px;
+
+}
+
+.hero{
+    background-color: 
+    #FEEAE9;
+}
+
+
